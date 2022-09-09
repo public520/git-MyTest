@@ -7,6 +7,7 @@ public class gitty {
         System.out.println("hello git!");
         System.out.println("master test");
         System.out.println("hot test");
+        System.out.println("now push");
         System.out.println("next pull test");
     }
 }
