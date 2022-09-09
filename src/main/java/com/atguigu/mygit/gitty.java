@@ -5,5 +5,6 @@ public class gitty {
         System.out.println("hello git!");
         System.out.println("hello git!");
         System.out.println("hello git!");
+        System.out.println("master test");
     }
 }
